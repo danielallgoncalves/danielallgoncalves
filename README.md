@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @danielallgoncalves
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
 - 📫 How to reach me daniela.luis.goncalves@gmail.com
 
 <!---
